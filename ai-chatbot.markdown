@@ -2,7 +2,7 @@
 layout: page
 nav_title: AI Chatbot
 title: AI Chatbot
-permalink: /kunal-ai-bot/
+permalink: /jiHo-ai-bot/
 ---
 
 
